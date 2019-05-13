@@ -2,6 +2,10 @@
 
 A repository with a HelloWorld Kotlin application with no Spring, with Gradle's Kotlin DSL.
 
+## Medium article
+
+[Hello World Kotlin application with the Gradle Kotlin DSL](https://medium.com/p/b4a2ae398afe/edit)
+
 ## Getting Started
 
 This application contains a HelloWorld application created with Gradle's Kotlin DSL.
