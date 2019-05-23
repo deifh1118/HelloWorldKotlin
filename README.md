@@ -70,6 +70,4 @@ $> git tag -a <version> <commit-sha> -m "<message>"
 
 * [Kotlin](https://kotlinlang.org/) - The Kotlin programming language
 * [Gradle](https://gradle.org/) - Dependency Management
-
-
-
+* [Git](https://git-scm.com/) - Distributed version-control system
