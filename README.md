@@ -1,6 +1,6 @@
 # HelloWorldKotlin
 
-A repository with a HelloWorld Kotlin application with no Spring, with Gradle's Kotlin DSL.
+A repository with a HelloWorld Kotlin simple application with no Spring,  with Gradle's Kotlin DSL.
 
 ## Medium article
 
